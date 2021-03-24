@@ -8,3 +8,7 @@ The Responsive Navbar Create in CSS Flexbox
  <li>Close Button after opening a menu in hamburger menu</li>
  
  
+<h1>Browser Support</h1>
+<li>Chrome Latest Version</li>
+<li>Edge Latest Version</li>
+<li>Firefox Latest Version</li>
