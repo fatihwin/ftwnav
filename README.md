@@ -12,3 +12,5 @@ The Responsive Navbar Create in CSS Flexbox
 <li>Chrome Latest Version</li>
 <li>Edge Latest Version</li>
 <li>Firefox Latest Version</li>
+<h1>Install with Git</h1>
+<code>git clone https://github.com/fatihwin/ftwnav.git</code>
